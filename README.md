@@ -17,6 +17,12 @@ bash start.sh
 
 The resulting image will be named "opencv-poetry-base". If you wish to change the tag, you can freely modify it within the `start.sh` script.
 
+To check the built image, type:
+
+```bash
+docker images
+```
+
 # Reference
 
 - For opencv package, refer to: [opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv/)
