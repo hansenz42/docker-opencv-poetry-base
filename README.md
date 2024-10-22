@@ -17,5 +17,5 @@ The resulting image will be named "opencv-poetry-base". If you wish to change th
 
 # Reference
 
-For opencv package, refer to: [opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv/)
-For opencv-contrib package, refer to: [opencv/opencv_contrib: Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
+- For opencv package, refer to: [opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv/)
+- For opencv-contrib package, refer to: [opencv/opencv_contrib: Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
