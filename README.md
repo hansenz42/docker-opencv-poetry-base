@@ -1,4 +1,4 @@
-This document outlines the Dockerfile for compiling OpenCV from source, including the OpenCV-contrib library. It's designed to create a Docker image that includes OpenCV, Python 11.10, and Poetry, which is particularly handy for developing Python projects that rely on OpenCV.
+This repo containes the Dockerfile for compiling OpenCV from source, including the OpenCV-contrib library. It's designed to create a Docker image that includes OpenCV, Python 3.11.10, and Poetry, which is particularly handy for developing Python projects that rely on OpenCV.
 
 ### Requirements
 
