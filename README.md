@@ -14,3 +14,8 @@ bash start.sh
 ```
 
 The resulting image will be named "opencv-poetry-base". If you wish to change the tag, you can freely modify it within the `start.sh` script.
+
+# Reference
+
+For opencv package, refer to: [opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv/)
+For opencv-contrib package, refer to: [opencv/opencv_contrib: Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
