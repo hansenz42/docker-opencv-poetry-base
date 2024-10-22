@@ -7,7 +7,7 @@ This repo containes the Dockerfile for compiling OpenCV from source, including t
 
 ### Usage
 
-To use this setup, simply execute the `start.sh` script, which will automatically download the OpenCV package, decompress it, and build the Docker image.
+To use this setup, simply clone the repo and execute the `start.sh` script, which will automatically download the OpenCV package, decompress it, and build the Docker image.
 
 ```bash
 bash start.sh
