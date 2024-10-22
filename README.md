@@ -10,6 +10,8 @@ This repo containes the Dockerfile for compiling OpenCV from source, including t
 To use this setup, simply clone the repo and execute the `start.sh` script, which will automatically download the OpenCV package, decompress it, and build the Docker image.
 
 ```bash
+git clone git@github.com:hansenz42/docker-opencv-poetry-base.git
+cd docker-compose-poetry-base
 bash start.sh
 ```
 
