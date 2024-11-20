@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y \
     ffmpeg libsm6 libxext6 libgl1 \
     && rm -rf /var/lib/apt/lists/*
 
-RUN pip3 install poetry
+RUN pip3 install poetry numpy setuptools
 
 WORKDIR /app
 COPY ./lib/opencv-4.10.0 /app/lib/opencv
