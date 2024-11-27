@@ -1,3 +1,5 @@
+相关的文章可以参考我的博客：[从源码编译 OpenCV 并打包到 Python 的 Docker 镜像 | 阿森的知识图谱](https://www.assen.top/blog/2024-11-27-opencv)
+
 This repo containes the Dockerfile for compiling OpenCV from source, including the OpenCV-contrib library. It's designed to create a Docker image that includes OpenCV, Python 3.11.10, and Poetry, which is particularly handy for developing Python projects that rely on OpenCV.
 
 ### Requirements
@@ -22,7 +24,7 @@ To check the built image, type:
 ```bash
 docker images
 ```
-
+[从源码编译 OpenCV 并打包到 Python 的 Docker 镜像 | 阿森的知识图谱](https://www.assen.top/blog/2024-11-27-opencv)
 # Reference
 
 - For opencv package, refer to: [opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv/)
