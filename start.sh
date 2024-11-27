@@ -20,4 +20,4 @@ mv opencv_contrib-4.10.0 lib
 rm contrib.tar.gz
 
 # start docker build
-docker build -t opencv-poetry-base --network host -f Dockerfile .
+docker build -t opencv-python-base --network host -f Dockerfile .
